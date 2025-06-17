@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python virtual environments
+.venv/
+venv/
+
+# pipenv virtual environments
+Pipfile.lock
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
